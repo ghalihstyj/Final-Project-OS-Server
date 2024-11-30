@@ -38,13 +38,13 @@ apt update && apt upgrade
 apt-get install apache2
 ```
 
-4.2 Konfigurasi Apache2
+Konfigurasi Apache2
 Langkah 1: Buka File Konfigurasi Apache2
 ```
 nano /etc/apache2/sites-available/000-default.conf
 ```
 
-Langkah 2: Sesuaikan Konfigurasi ini dengan domain yang anda gunakan Web4
+Langkah 2: Sesuaikan Konfigurasi dengan domain yang anda gunakan
 
 Lengkah 3: Restart Layanan Apache2
 ```
@@ -62,7 +62,7 @@ ufw allow in "Apache"
 ufw status
 ```
 
-4.3 Konfigurasi CMS Wordpress pada Apache2
+Konfigurasi CMS Wordpress pada Apache2
 Langkah 1: Melakukan Instalasi PHP
 ```
 sudo apt install -y php libapache2-mod-php php-{common,xml,xmlrpc,curl,gd,imagick,cli,dev,imap,mbstring,opcache,soap,zip,intl}
