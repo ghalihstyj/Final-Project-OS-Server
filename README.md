@@ -24,7 +24,7 @@ Langkah 5: Cek status SSH SERVER
 ```
 sudo systemctl status ssh
 ```
-Untuk melakukan remote menggunakan ssh gunakan perintah berikut 
+Untuk melakukan remote menggunakan ssh gunakan perintah, Contoh ssh ghalih@123.456.789
 ```
 ssh [username]@[ip addess]
 ```
