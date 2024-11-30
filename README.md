@@ -29,7 +29,7 @@ Untuk melakukan remote menggunakan ssh gunakan perintah, Contoh ssh ghalih@123.4
 ssh [username]@[ip addess]
 ```
 ## 2. Instalasi MAIL SERVER
-Langkah 1: Lakukan
+Langkah 1: 
 ## 3. Instalasi WEB SERVER
 ## 4. Instalasi DATABASE SERVER
 ## 5. Instalasi DNS SERVER
