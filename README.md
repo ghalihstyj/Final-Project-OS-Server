@@ -1,5 +1,9 @@
 # Final-Project-OS-Server
+Progres pengerjaan final projek os server 
 
-- 23.83.0953
-- 
+#DAFTAR ISI
+
+# 1. Instalasi OPEN SSH SERVER
+# 2. Instalasi MAIL SERVER
+# 3. Instalasi WEB SERVER
 
