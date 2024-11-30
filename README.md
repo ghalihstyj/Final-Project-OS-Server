@@ -1,7 +1,7 @@
 # Final-Project-OS-Server
 Progres pengerjaan final projek os server 
 
-# DAFTAR ISI
+## DAFTAR ISI
 
 ## 1. Instalasi OPEN SSH SERVER
 ### 1. Lakukan Instalasi Paket SSH Server
