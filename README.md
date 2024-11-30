@@ -5,8 +5,7 @@ Progres pengerjaan final projek os server
 
 ## 1. Instalasi OPEN SSH SERVER
 Langkah 1: Lakukan Instalasi Paket SSH Server
-"""
-sudo apt install openssh-server -y 
+"""sudo apt install openssh-server -y 
 """
 ## 2. Instalasi MAIL SERVER
 ## 3. Instalasi WEB SERVER
