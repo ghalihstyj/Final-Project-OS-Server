@@ -1,5 +1,5 @@
 # Final-Project-OS-Server
-Progres pengerjaan final projek os server 
+Progres pengerjaan final projek os server. hasil yang ditampilkan belum 100% 
 
 ## DAFTAR ISI
 
@@ -61,8 +61,6 @@ Konfigurasi ufw
 ufw allow in "Apache"
 ufw status
 ```
-
-Jika Konfigurasi Berhasil seharusnya muncul layanan web default seperti gambar dibawah ini: Web8
 
 4.3 Konfigurasi CMS Wordpress pada Apache2
 Langkah 1: Melakukan Instalasi PHP
@@ -156,7 +154,7 @@ Login dengan Akun yang sudah dibuat
 CMS sudah Berhasil diinstall 
 
 Pengujian Konfigurasi Apache2
-Tampilan dari Postingan yang ada di Webserver
+
 
 ## 4. Instalasi DATABASE SERVER
 Langkah 1: Instalasi Paket MySQL
@@ -171,9 +169,17 @@ systemctl status mysql.service
 ```
 
 ** Konfigurasi MySQL 
-Langkah 1: Jalankan Perintah ini
+Langkah 1: 
 ```
 mysql_secure_installation
+```
+Langkah 2:Lakukan instalasi paket
+
+sudo apt-get install phpmyadmin
+
+Langkah 3:Restart ulang layanan
+```
+sudo systemctl restart apache2
 ```
 ## 5. Instalasi DNS SERVER
 1. Instalasi BIND9
