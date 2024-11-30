@@ -1,2 +1,3 @@
 # Final-Project-OS-Server
-# sudo apt-get update
+sudo apt-get update
+
