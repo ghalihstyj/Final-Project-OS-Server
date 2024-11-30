@@ -5,7 +5,8 @@ Progres pengerjaan final projek os server
 
 ## 1. Instalasi OPEN SSH SERVER
 ## # 1. Lakukan Instalasi Paket SSH Server
-
+1.1 Instalasi
+Langkah 1: Lakukan Instalasi Paket SSH Server
 ## 2. Instalasi MAIL SERVER
 ## 3. Instalasi WEB SERVER
 ## 4. Instalasi DATABASE SERVER
